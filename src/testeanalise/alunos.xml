@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alunos>
+    <aluno>
+        <matricula>0001</matricula>
+	<nome>Anne</nome>
+    </aluno>
+    <aluno>
+        <matricula>0002</matricula>
+	<nome>Ana</nome>
+    </aluno>
+    <aluno>
+        <matricula>0003</matricula>
+	<nome>Maria</nome>
+    </aluno>
+</alunos>
